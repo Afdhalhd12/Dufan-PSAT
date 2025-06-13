@@ -39,7 +39,7 @@
                 <div class="d-flex">
                     <div class="mb-3 w-50">
                         <label for="exampleInputName" class="form-label">Nama Lengkap</label>
-                        <input type="text" class="form-control" id="exampleInputName" aria-describedby="nameHelp">
+                        <input type="text" class="form-control" id="exampleInputName" placeholder="Nama lengkap" aria-describedby="nameHelp">
                     </div>
                     <div class="mb-3" style="margin-left: 30px; width: 50%;">
                         <label for="exampleInputEmail" class="form-label">Email</label>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputSubjek" class="form-label">Subjek</label>
-                    <input type="text" class="form-control" id="exampleInputSubjek">
+                    <input type="text" class="form-control" id="exampleInputSubjek" placeholder="Subjek pesan">
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlTextarea1" class="form-label">Pesan</label>
